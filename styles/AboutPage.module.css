@@ -1,18 +1,18 @@
 .paragraph1 {
-    marginTop: 20px,
+    margin-top: 20px,
     width: 70%,
     margin: auto,
-    fontSize: 22px,
-    letterSpacing: 1.5px,
-    textAlign: justify,
+    font-size: 22px,
+    letter-spacing: 1.5px,
+    text-align: justify,
 }
 
 .paragraph2 {
     width: 70%,
     margin: auto,
-    fontSize: 22px,
-    letterSpacing: 1.5px,
-    textAlign: justify,
+    font-size: 22px,
+    letter-spacing: 1.5px,
+    text-align: justify,
 }
 
 @media screen and (max-width: 600px) {
