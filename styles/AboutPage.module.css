@@ -18,8 +18,10 @@
 @media screen and (max-width: 600px) {
   .paragraph1 {
     width: 100%;
+    font-size: 18px;
   }
   .paragraph2 {
     width: 100%;
+    font-size: 18px;
   }
 }
