@@ -17,11 +17,11 @@
 
 @media screen and (max-width: 600px) {
   .paragraph1 {
-    width: 100%;
+    width: 95%;
     font-size: 18px;
   }
   .paragraph2 {
-    width: 100%;
+    width: 95%;
     font-size: 18px;
   }
 }
