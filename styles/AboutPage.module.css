@@ -1,0 +1,25 @@
+.paragraph1 {
+    marginTop: 20px,
+    width: 70%,
+    margin: auto,
+    fontSize: 22px,
+    letterSpacing: 1.5px,
+    textAlign: justify,
+}
+
+.paragraph2 {
+    width: 70%,
+    margin: auto,
+    fontSize: 22px,
+    letterSpacing: 1.5px,
+    textAlign: justify,
+}
+
+@media screen and (max-width: 600px) {
+  .paragraph1 {
+    width: 100%;
+  }
+  .paragraph2 {
+    width: 100%;
+  }
+}
