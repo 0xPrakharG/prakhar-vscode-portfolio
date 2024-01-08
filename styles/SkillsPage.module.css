@@ -43,8 +43,11 @@
 }
 
 @media screen and (max-width: 600px) {
+  .skills {
+    max-width: 95%;
+  }
   .icons {
-    width: 60px;
+    width: 70px;
   }
   .iconText {
     font-size: 16px;
