@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "name": "SocioConnect",
+    "image": "/socioconnect.png",
+    "description": "SocioConnect is a MERN stack social networking website.",
+    "tags": ["react", "node", "express", "mongodb", "javascript", "tailwind"],
+    "source_code": "https://github.com/0xPrakharG/socioconnect",
+    "demo": ""
+  },
+  {
+    "id": 2,
+    "name": "AdminOps",
+    "image": "/adminops.png",
+    "description": "This is admin dashboard made with react.js. ",
+    "tags": ["react", "javascript", "zustand"],
+    "source_code": "https://github.com/0xPrakharG/admin_dashboard",
+    "demo": "https://admin-dashboard-0xprakharg.vercel.app/"
+  },
+  {
+    "id": 3,
+    "name": "Sumz",
+    "image": "/aisummarizer.png",
+    "description": "This project helps in summarizing the given blog link made with React+Rapid API.",
+    "tags": ["react", "tailwind", "rapid-api"],
+    "source_code": "https://github.com/0xPrakharG/Ai_Summarizer",
+    "demo": "https://ai-summarizer-five.vercel.app/"
+  },
+  {
+    "id": 4,
+    "name": "Todo List App",
+    "image": "/todo.png",
+    "description": "This is a todo list creating app. This is developed with Next.",
+    "tags": ["typescript", "next", "tailwind"],
+    "source_code": "https://github.com/0xPrakharG/todo_next13",
+    "demo": "https://todo-next13.vercel.app/"
+  },
+  {
+    "id": 5,
+    "name": "Atmos",
+    "image": "/atmos.png",
+    "description": "Atmos is a basic airline 3D website. Its made with React Three Fibre.",
+    "tags": ["react-three-fibre", "react", "gsap"],
+    "source_code": "https://github.com/0xPrakharG/Atmos-rtf",
+    "demo": "https://atmos-rtf.vercel.app/"
+  }
+]

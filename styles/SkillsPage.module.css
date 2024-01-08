@@ -1,0 +1,38 @@
+.skills {
+  position: relative;
+  margin: auto;
+  top: 0;
+  left: 0;
+  text-align: center;
+  color: orange;
+  font-size: 36px;
+  max-width: 80%;
+}
+
+.skillContainer {
+  color: lightgray;
+  margin-top: 40px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.icons {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+  width: 100px;
+  margin: 30px;
+  justify-content: space-evenly;
+}
+
+.iconImg {
+  width: 60px;
+  height: 60px;
+}
+
+.iconText {
+  font-size: 20px;
+}

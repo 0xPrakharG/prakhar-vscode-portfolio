@@ -1,0 +1,94 @@
+@import url("https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400&display=swap");
+
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Tags */
+.react {
+  border: 0.1rem solid rgb(97, 218, 251);
+}
+.react:hover {
+  background: rgba(97, 218, 251, 0.25);
+}
+
+.node {
+  border: 0.1rem solid rgb(131, 205, 41);
+}
+.node:hover {
+  background: rgba(131, 205, 41, 0.25);
+}
+
+.mongodb {
+  border: 0.1rem solid rgb(67, 153, 52);
+}
+.mongodb:hover {
+  background: rgba(67, 153, 52, 0.25);
+}
+
+.express {
+  border: 0.1rem solid rgb(118, 74, 188);
+}
+.express:hover {
+  background: rgba(118, 74, 188, 0.25);
+}
+
+.rapid-api {
+  border: 0.1rem solid rgb(82, 143, 240);
+}
+.rapid-api :hover {
+  background: rgba(82, 143, 240, 0.25);
+}
+
+.javascript {
+  border: 0.1rem solid rgb(25, 118, 210);
+}
+.javascript:hover {
+  background: rgba(25, 118, 210, 0.25);
+}
+
+.typescript {
+  border: 0.1rem solid rgb(0, 209, 178);
+}
+.typescript:hover {
+  background: rgb(0, 209, 178, 0.25);
+}
+
+.next {
+  border: 2px solid rgb(0, 112, 243);
+}
+.next:hover {
+  background: rgba(0, 112, 243, 0.25);
+}
+
+.tailwind {
+  border: 2px solid rgb(199, 50, 189);
+}
+.tailwind:hover {
+  background: rgba(199, 50, 189, 0.25);
+}
+
+.zustand {
+  border: 2px solid rgb(255, 65, 84);
+}
+.zustand:hover {
+  background: rgba(255, 65, 84, 0.25);
+}
+
+.react-three-fibre {
+  border: 2px solid rgb(100, 166, 250);
+}
+.react-three-fibre:hover {
+  background: rgba(100, 166, 250, 0.25);
+}
+
+.gsap {
+  border: 2px solid rgb(247, 59, 138);
+}
+.gsap:hover {
+  background: rgba(247, 59, 138, 0.25);
+}
