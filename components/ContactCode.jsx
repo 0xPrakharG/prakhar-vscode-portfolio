@@ -22,6 +22,11 @@ const contactItems = [
     href: 'https://twitter.com/0xPrakharG',
   },
   {
+    social: 'whatsapp',
+    link: 'prakhargoyal',
+    href: 'https://wa.me/9305325616',
+  },
+  {
     social: 'instagram',
     link: 'prakhar.3014',
     href: 'https://www.instagram.com/prakhar.3014',
