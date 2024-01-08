@@ -2,7 +2,7 @@ import Link from "next/link";
 import styles from "../styles/HomePage.module.css";
 
 export default function HomePage() {
-  const tagline = "<!-- Your Friendly Neighbourhood Developer -->";
+  const tagline = "<!-- Full-Stack Developer -->";
   return (
     <>
       <div className={styles.container}>

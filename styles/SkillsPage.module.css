@@ -9,6 +9,11 @@
   max-width: 80%;
 }
 
+.heading {
+  text-align: center;
+  width: 100%;
+}
+
 .skillContainer {
   color: lightgray;
   margin-top: 40px;
@@ -35,4 +40,13 @@
 
 .iconText {
   font-size: 20px;
+}
+
+@media screen and (max-width: 600px) {
+  .icons {
+    width: 80px;
+  }
+  .iconText {
+    font-size: 16px;
+  }
 }

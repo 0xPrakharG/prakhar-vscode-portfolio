@@ -82,7 +82,7 @@ const skills = [
 const SkillsPage = () => {
   return (
     <>
-      <h3 style={{textAlign:"center", width: "100%" }}>
+      <h3 className={styles.heading}>
         Tech I've worked on till now
       </h3>
       <div className={styles.skills}>
