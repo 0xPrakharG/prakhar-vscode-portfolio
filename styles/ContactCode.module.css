@@ -29,7 +29,4 @@
     font-size: 0.75rem;
     line-height: 1.5rem;
   }
-  .line::before {
-    margin-right: 0.7rem;
-  }
 }
