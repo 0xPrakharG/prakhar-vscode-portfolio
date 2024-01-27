@@ -12,14 +12,16 @@ const ProjectCard = ({ project }) => {
         className={styles.image}
       />
       <div className={styles.content}>
-        <h3>{project.name}</h3>
-        <p>{project.description}</p>
-        <div className={styles.tags}>
-          {project.tags.map((tag) => (
-            <span key={tag} className={tag}>
-              {tag}
-            </span>
-          ))}
+        <div>
+          <h3>{project.name}</h3>
+          <p>{project.description}</p>
+          <div className={styles.tags}>
+            {project.tags.map((tag) => (
+              <span key={tag} className={tag}>
+                {tag}
+              </span>
+            ))}
+          </div>
         </div>
         <div className={styles.cta}>
           <a
