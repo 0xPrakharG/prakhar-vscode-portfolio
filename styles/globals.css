@@ -31,10 +31,10 @@
 }
 
 .express {
-  border: 0.1rem solid rgb(118, 74, 188);
+  border: 0.1rem solid rgb(235, 200, 75);
 }
 .express:hover {
-  background: rgba(118, 74, 188, 0.25);
+  background: rgba(235, 200, 75, 0.25);
 }
 
 .rapid-api {
@@ -83,6 +83,27 @@
   border: 2px solid rgb(100, 166, 250);
 }
 .react-three-fibre:hover {
+  background: rgba(100, 166, 250, 0.25);
+}
+
+.next-auth {
+  border: 2px solid rgb(255, 65, 84);
+}
+.next-auth:hover {
+  background: rgba(255, 65, 84, 0.25);
+}
+
+.stripe {
+  border: 0.1rem solid rgb(118, 74, 188);
+}
+.stripe:hover {
+  background: rgba(118, 74, 188, 0.25);
+}
+
+.styled-components {
+  border: 2px solid rgb(100, 166, 250);
+}
+.styed-components:hover {
   background: rgba(100, 166, 250, 0.25);
 }
 

@@ -1,6 +1,15 @@
 [
   {
     "id": 1,
+    "name": "BlazeBuy Store",
+    "image": "/blazebuy.png",
+    "description": "BlazeBuy is a Full-stack Ecommerce platform.",
+    "tags": ["next", "node", "next-auth", "mongodb", "javascript", "tailwind", "stripe", "styled-components"],
+    "source_code": "https://github.com/0xPrakharG/blazebuy_front",
+    "demo": "https://blazebuy.vercel.app/account"
+  },
+  {
+    "id": 2,
     "name": "SocioConnect",
     "image": "/socioconnect.png",
     "description": "SocioConnect is a MERN stack social networking website.",
@@ -9,7 +18,7 @@
     "demo": ""
   },
   {
-    "id": 2,
+    "id": 3,
     "name": "AdminOps",
     "image": "/adminops.png",
     "description": "This is admin dashboard made with react.js. ",
@@ -18,7 +27,7 @@
     "demo": "https://admin-dashboard-0xprakharg.vercel.app/"
   },
   {
-    "id": 3,
+    "id": 4,
     "name": "Sumz",
     "image": "/aisummarizer.png",
     "description": "This project helps in summarizing the given blog link made with React+Rapid API.",
@@ -27,7 +36,7 @@
     "demo": "https://ai-summarizer-five.vercel.app/"
   },
   {
-    "id": 4,
+    "id": 5,
     "name": "Todo List App",
     "image": "/todo.png",
     "description": "This is a todo list creating app. This is developed with Next.",
@@ -36,7 +45,7 @@
     "demo": "https://todo-next13.vercel.app/"
   },
   {
-    "id": 5,
+    "id": 6,
     "name": "Atmos",
     "image": "/atmos.png",
     "description": "Atmos is a basic airline 3D website. Its made with React Three Fibre.",
