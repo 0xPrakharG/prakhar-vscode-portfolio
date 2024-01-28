@@ -16,6 +16,13 @@
   background: rgba(97, 218, 251, 0.25);
 }
 
+.aws {
+  border: 0.1rem solid rgb(245, 166, 81);
+}
+.aws:hover {
+  background: rgba(245, 166, 81, 0.25);
+}
+
 .node {
   border: 0.1rem solid rgb(131, 205, 41);
 }

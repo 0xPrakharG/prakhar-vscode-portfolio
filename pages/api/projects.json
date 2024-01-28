@@ -4,7 +4,7 @@
     "name": "BlazeBuy Store",
     "image": "/blazebuy.png",
     "description": "BlazeBuy is a Full-stack Ecommerce platform.",
-    "tags": ["next", "node", "next-auth", "mongodb", "javascript", "tailwind", "stripe", "styled-components"],
+    "tags": ["next", "node", "next-auth", "mongodb", "javascript", "tailwind", "stripe", "styled-components", "aws"],
     "source_code": "https://github.com/0xPrakharG/blazebuy_front",
     "demo": "https://blazebuy.vercel.app/account"
   },
